@@ -1,6 +1,6 @@
 # ArcherIRM Report Exporter
 
-Automate the extraction of saved reports from an on-premises ArcherIRM deployment using the SOAP API. This script authenticates via domain credentials, paginates through report results, and exports them to a clean CSV file.
+Automate the extraction of saved reports from ArcherIRM using the SOAP API. This script authenticates via local user credentials, paginates through report results, and exports them to a clean CSV file.
 
 ---
 

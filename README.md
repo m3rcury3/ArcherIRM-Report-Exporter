@@ -19,6 +19,7 @@ Automate the extraction of saved reports from ArcherIRM using the SOAP API. This
 - Python 3.6+
 - Internet access to your ArcherIRM server
 - A saved report in Archer with record-level data
+- The user must have read permissions on the saved report and report records on the application level
 
 ### Python Dependencies
 

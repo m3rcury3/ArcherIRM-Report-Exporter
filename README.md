@@ -27,3 +27,9 @@ Install required packages:
 
 ```bash
 pip install requests lxml
+```
+
+## Usage
+
+```bash
+python3 ArcherIRMReportExporter.py

@@ -8,7 +8,7 @@ Automate the extraction of saved reports from ArcherIRM using the SOAP API. This
 
 - Authenticates using `CreateDomainUserSessionFromInstance`
 - Executes saved reports via `SearchRecordsByReport`
-- Handles pagination (250 records per page)
+- Handles pagination
 - Extracts field definitions for readable column names
 - Outputs a single CSV file with all records
 
